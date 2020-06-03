@@ -45,3 +45,19 @@ We have some real DNA for you to test your code on. Download the file brca1line.
 Modify your processGenes method so that it prints all the Strings that are longer than 60 characters and prints the number of Strings that are longer than 60 characters (you do not need to make changes to the rest of the method).
 
 Modify the method testProcessGenes to call processGenes with a StorageResource of the genes found in the file brca1line.fa.
+
+
+
+Solutions:
+
+For Final Assignment Week 2
+(NOTE: not the answer for practice quiz !!! )
+
+TOTAL GENES = 69
+Total number of strings with length greater than 60 : 23
+Total number of strings with CG Ratio greater than 0.35 : 40
+Longest gene length is : 489
+Total number of occurances of CTG is : 224
+Question 1 : turkey ,duck and quails
+Question 2 :The method mystery is given a string and it returns a string which is the same string but with the first three T's removed.
+Hope this clears the doubts !!!!...
