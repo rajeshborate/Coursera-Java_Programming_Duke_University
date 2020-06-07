@@ -1,8 +1,8 @@
 
 /**
  * Write a description of class LogAnalyzer here.
- * @author (Aymar N.) 
- * @version (02.08.2019)
+ * @author 
+ * @version 
  */
 
 import java.util.*;
