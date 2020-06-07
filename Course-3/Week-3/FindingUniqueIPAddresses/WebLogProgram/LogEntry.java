@@ -2,8 +2,8 @@
 /**
  * Write a description of class LogRecord here.
  * 
- * @author (Aymar N.) 
- * @version (02.08.2019)
+ * @author  
+ * @version 
  */
 
 import  java.util.*;
