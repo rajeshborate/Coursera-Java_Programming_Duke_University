@@ -2,8 +2,7 @@
 /**
  * Write a description of DistanceFilter here.
  * 
- * @author yamatokataoka
- * @version November 30th, 2019
+ * 
  */
 public class DistanceFilter implements Filter{
     private Location location;
