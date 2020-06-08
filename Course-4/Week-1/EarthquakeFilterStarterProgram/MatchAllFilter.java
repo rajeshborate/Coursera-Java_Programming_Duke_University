@@ -2,8 +2,7 @@
 /**
  * Write a description of MatchAllFilter here.
  * 
- * @author yamatokataoka
- * @version November 30th, 2019
+ * 
  */
 
 import java.util.*;
