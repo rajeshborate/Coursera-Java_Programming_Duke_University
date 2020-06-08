@@ -2,8 +2,7 @@
 /**
  * Write a description of DepthFilter here.
  * 
- * @author yamatokataoka
- * @version November 30th, 2019
+ 
  */
 public class DepthFilter implements Filter{
     private double minimumDepth;
