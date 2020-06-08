@@ -2,8 +2,7 @@
 /**
  * Write a description of MagnitudeFilter here.
  * 
- * @author yamatokataoka
- * @version November 30th, 2019
+ *
  */
 public class MagnitudeFilter implements Filter{
     private double minimumMagnitude;
