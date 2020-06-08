@@ -2,8 +2,7 @@
 /**
  * Write a description of interface Filter here.
  * 
- * @author yamatokataoka
- * @version November 30th, 2019
+ * 
  */
 public interface Filter
 {
