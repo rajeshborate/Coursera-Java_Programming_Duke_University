@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=QuakeSortInPlace
+comment1.params=
+comment1.target=QuakeSortInPlace()
+comment2.params=quakes\ from
+comment2.target=int\ getSmallestMagnitude(java.util.ArrayList,\ int)
+comment3.params=quakeData\ from
+comment3.target=int\ getLargestDepth(java.util.ArrayList,\ int)
+comment4.params=in
+comment4.target=void\ sortByLargestDepth(java.util.ArrayList)
+comment5.params=in
+comment5.target=void\ sortByMagnitude(java.util.ArrayList)
+comment6.params=quakes
+comment6.target=boolean\ checkInSortedOrder(java.util.ArrayList)
+comment7.params=
+comment7.target=void\ testSort()
+comment8.params=
+comment8.target=void\ createCSV()
+comment9.params=list
+comment9.target=void\ dumpCSV(java.util.ArrayList)
+numComments=10
